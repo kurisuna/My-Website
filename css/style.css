@@ -1,0 +1,27 @@
+p{
+color: white;
+font-family: cursive;
+}
+body{
+  background-color: silver;
+}
+ol{
+color: blue;
+font-family: cursive;
+}
+ul{
+color: blue;
+font-family: cursive;
+}
+#first{
+  color: white;
+  font-family: cursive;
+}
+#second{
+  color: white;
+  font-family: cursive;
+}
+#third{
+  color: black;
+  font-family: cursive;
+}
